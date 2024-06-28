@@ -1,4 +1,4 @@
-# ZooUtil
+# ZUtil
 
 Collection of some free open source java utilities.
 
