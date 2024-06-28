@@ -18,7 +18,7 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-package org.zoolu.util;
+package org.zoolu.util.log;
 
 
 

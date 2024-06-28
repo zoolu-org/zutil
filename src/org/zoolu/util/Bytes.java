@@ -29,7 +29,7 @@ import java.io.ObjectOutputStream;
 import java.util.Arrays;
 
 
-/** Class that collects static methods related to byte arrays.
+/** Collection of static methods related to byte arrays.
   */
 public final class Bytes {
 	private Bytes() {}

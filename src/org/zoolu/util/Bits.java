@@ -18,14 +18,13 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-
 package org.zoolu.util;
 
 
-/** Class that collects static methods for dealing with bit-oriented operations.
+/** Collections of static methods for doing bit-oriented operations onto integer values.
   */
-public final class BitUtils {
-	private BitUtils() {}
+public final class Bits {
+	private Bits() {}
 	
 	/** Rotates a byte b shifting n bits left.
 	  * @param b the byte to be rotated

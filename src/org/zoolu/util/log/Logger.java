@@ -18,9 +18,7 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-package org.zoolu.util;
-
-
+package org.zoolu.util.log;
 
 
 /** A generic message logger.
@@ -30,8 +28,9 @@ public interface Logger {
 	
 	/** Adds a log message.
 	  * @param level the level of this log message
-	  * @param source_class the origin of this log message
-	  * @param message the message to be logged */
-	public void log(LoggerLevel level, Class source_class, String message);
+	  * @param sourceClass the class that originated this log message
+	  * @param message the message to be logged
+	  */
+	public void log(LoggerLevel level, Class<?> sourceClass, String message);
 
 }

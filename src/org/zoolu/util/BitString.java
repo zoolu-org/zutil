@@ -20,13 +20,12 @@
 
 package org.zoolu.util;
 
-
 import java.util.BitSet;
 
 
-/** Invariant string of bits.
+/** Immutable string of bits.
   * <p>
-  * For variable-length bit strings you can use {@link BitStringBuffer}.
+  * For variable-length strings of bits you can use {@link BitStringBuffer}.
   */
 public class BitString {
 	
