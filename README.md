@@ -1,6 +1,6 @@
 # ZUtil
 
-Collection of some free open source java utilities.
+Collection of some free java utilities.
 
 Some of the included tools are:
 * [Flags](https://github.com/zooutil/zooutil/blob/main/src/org/zoolu/util/Flags.java) - a simple tool for managing command line options;
