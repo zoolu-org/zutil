@@ -10,7 +10,7 @@ Here is a brief list of the main included utilities:
 * [Bytes](https://github.com/zoolu-org/zutil/blob/main/src/org/zoolu/util/Bytes.java) - a collection of useful static methods for managing array of bytes (concatenation, cutting, copy, hex string conversion, integer conversion, etc.);
 * [BitString](https://github.com/zoolu-org/zutil/blob/main/src/org/zoolu/util/BitString.java) - invariant string of bits;
 * [Parser](https://github.com/zoolu-org/zutil/blob/main/src/org/zoolu/util/Parser.java) - for sequentially parsing string objects (go to, index of, get object, skip, etc.);
-* [json](https://github.com/zoolu-org/zutil/tree/main/src/org/zoolu/util/json) - a very small JSON implementation; simple use through the [JsonUtils](https://github.com/zoolu-org/zutil/blob/main/src/org/zoolu/util/json/JsonUtils.java) class;
+* [json](https://github.com/zoolu-org/zutil/tree/main/src/org/zoolu/util/json) - a very small JSON implementation; simple usage through static methods of the [Json](https://github.com/zoolu-org/zutil/blob/main/src/org/zoolu/util/json/Json.java) class;
 * [net](https://github.com/zoolu-org/zutil/tree/main/src/org/zoolu/net) - additional classes for handling standard sockets; it includes [UdpProvider](https://github.com/zoolu-org/zutil/blob/main/src/org/zoolu/net/UdpProvider.java), a wrapper of the DatagramSocket that allows asynchronous (event-based) reception of UDP datagrams, and some classes for managing the TLS protocol and digital certificates.
 
 More utilities can be discovered by browsing the [org/zoolu/util](https://github.com/zoolu-org/zutil/tree/main/src/org/zoolu/util) package.
