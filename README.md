@@ -2,7 +2,7 @@
 
 Collection of some free java utilities.
 
-Some of these utilitis like [Flags](https://github.com/zooutil/zutil/blob/main/src/org/zoolu/util/Flags.java) or [Bytes](https://github.com/zooutil/zutil/blob/main/src/org/zoolu/util/Bytes.java) are just single-class implementations that not requires any othere dependencies, that you can simple copy and include in your projects.
+Some of these utilities like [Flags](https://github.com/zooutil/zutil/blob/main/src/org/zoolu/util/Flags.java) or [Bytes](https://github.com/zooutil/zutil/blob/main/src/org/zoolu/util/Bytes.java) are just single-class implementations that not requires any othere dependencies, that you can simple copy and include in your projects.
 Other tools like [json](https://github.com/zooutil/zutil/tree/main/src/org/zoolu/util/json) or [net](https://github.com/zooutil/zutil/tree/main/src/org/zoolu/net) are formed by a set of few classes collected within a package. However also in this case there are no dependencies on other exteranl classes.
 
 Here is a brief list of the main included utilities:
